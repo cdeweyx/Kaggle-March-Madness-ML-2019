@@ -1,2 +1,4 @@
-# Kaggle-March-Madness-ML-2019
-Kaggle machine learning competition submission for NCAA Men's Basketball Championships (March Madness) 2019
+# Kaggle March Madness Machine Learning 2019
+
+## Description
+Google Cloud and NCAA® have teamed up to bring you this year’s version of the Kaggle machine learning competition. Another year, another chance to anticipate the upsets, call the probabilities, and put your bracketology skills to the leaderboard test. Kagglers will join the millions of fans who attempt to forecast the outcomes of March Madness® during this year's NCAA Division I Men’s and Women’s Basketball Championships. But unlike most fans, you will pick your bracket using a combination of NCAA’s historical data and your computing power, while the ground truth unfolds on national television.
